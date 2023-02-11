@@ -2,8 +2,9 @@ class Sam
 {
 static void add()
 {
-
-int c=a+b;
+  int a=35;
+  int b=367;
+ int c=a+b;
 }
   class Sam
 {
